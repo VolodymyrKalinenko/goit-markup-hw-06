@@ -530,7 +530,7 @@ display: inline-flex;
   display: block;
 }
 input::placeholder{
-  padding: 16px;
+  padding: 8px;
   color: var(--color-white);
 }
 .subscrible-field {
