@@ -561,6 +561,7 @@ input::placeholder{
   gap: 16px;
   transition: 250ms;
   font-family: inherit;
+  letter-spacing: 0.04em;
 }
 
 .subscrible-btn:hover,
